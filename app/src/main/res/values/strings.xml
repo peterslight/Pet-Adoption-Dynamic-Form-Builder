@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pet Adoption</string>
+    <string name="mandatory_fields">fields marked with (*) are mandatory</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+    <string name="adoption_history">Adoption History</string>
+    <string name="okay">Okay</string>
+    <string name="saved_data">data saved</string>
+    <string name="close">Close</string>
+    <string name="dialog_show_title">Pet Adoption History</string>
+    <string name="save_to_db">Save to Database</string>
+    <string name="error_fields">Fill out the following fields</string>
+</resources>
