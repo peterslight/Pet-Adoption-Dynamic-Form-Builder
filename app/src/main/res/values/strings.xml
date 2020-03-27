@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Pet Adoption</string>
+    <string name="app_name">Peterstev Pet Adoption</string>
     <string name="mandatory_fields">fields marked with (*) are mandatory</string>
     <string name="no">NO</string>
     <string name="yes">YES</string>
